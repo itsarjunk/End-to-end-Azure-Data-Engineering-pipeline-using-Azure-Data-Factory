@@ -1,1 +1,9 @@
-# End-to-end-Azure-Data-Engineering-pipeline-using-Azure-Data-Factory
+Azure Data Engineering Project
+
+Tools Used:
+- Azure Data Factory
+- Azure Data Lake Storage Gen2
+- Azure SQL Database
+
+Pipeline Architecture:
+ADLS → ADF → SQL
