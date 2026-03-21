@@ -1,0 +1,9 @@
+{
+	"name": "arjundf21",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba36f70a-4433-48dd-ab40-52b6e21ae8c3",
+		"tenantId": "761fc76c-f127-436c-9c3e-ea26ab4f6f3f"
+	}
+}
