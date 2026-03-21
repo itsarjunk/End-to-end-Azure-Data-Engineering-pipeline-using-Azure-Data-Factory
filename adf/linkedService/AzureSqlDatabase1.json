@@ -7,11 +7,11 @@
 		"typeProperties": {
 			"server": "arjunserver21.database.windows.net",
 			"database": "master",
-			"encrypt": "mandatory",
+			"encrypt": "optional",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
-			"userName": "Arjun",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDQ2MEUyM0ZCLUEwRTAtNEZEMi05NTJBLUEwREQzRUI3QTZEMF9jOWVhNGZiOS0yZGZkLTQ5MWEtYjVjMy1iNDk4NTczNWYwNmQiDQp9"
+			"userName": "ARJUN@1995",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDQ2MEUyM0ZCLUEwRTAtNEZEMi05NTJBLUEwREQzRUI3QTZEMF8yODhlMTgzMS04YTU1LTQ0NTMtODhlYi0zZjk5MGRkYjI2MmUiDQp9"
 		}
 	}
 }
